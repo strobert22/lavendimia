@@ -65,7 +65,7 @@
       <h1>Registro de Articulo Nuevo</h1>
       <form class="ui form" id="form_articulo_crear">
         <div class="field">
-          <label>Clave: <storng id="form_articulo_id_clave_label">Generando...</strong></label>
+          <label>Clave: <strong id="form_articulo_id_clave_label">Generando...</strong></label>
         </div>
         <div class="field">
           <label>Descripción</label>
@@ -94,7 +94,7 @@
       <h1>Modificación de articulo</h1>
       <form class="ui form" id="form_articulo_editar">
        <div class="field">
-          <label>Clave: <storng id="form_articulo_editar_id_clave_label">Generando...</strong></label>
+          <label>Clave: <strong id="form_articulo_editar_id_clave_label">Generando...</strong></label>
         </div>
         <div class="field">
           <label>Descripción</label>
