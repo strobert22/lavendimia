@@ -84,7 +84,7 @@ $( document ).ready(function() {
 			$("#form_cliente_editar_apaterno").val(clientes[idx]['apaterno']);
 			$("#form_cliente_editar_amaterno").val(clientes[idx]['amaterno']);
 			$("#form_cliente_editar_rfc").val(clientes[idx]['rfc']);
-			$("#form_cliente_editar_id_clave_label").val(clientes[idx]['clave']);
+			$("#form_cliente_editar_id_clave_label").html(clientes[idx]['clave']);
 
 
 			$(".section_cliente_crear").hide();
