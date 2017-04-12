@@ -90,7 +90,7 @@ $( document ).ready(function() {
 			$("#form_articulo_editar_modelo").val(articulos[idx]['modelo']);
 			$("#form_articulo_editar_precio").val(articulos[idx]['precio']);
 			$("#form_articulo_editar_existencia").val(articulos[idx]['existencia']);
-			$("#form_articulo_editar_id_clave_label").val(articulos[idx]['clave']);
+			$("#form_articulo_editar_id_clave_label").html(articulos[idx]['clave']);
 			$(".section_articulo_crear").hide();
 			$(".section_articulo_list").hide();
 			$(".section_articulo_editar").show();
