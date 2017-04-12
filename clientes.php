@@ -53,7 +53,7 @@
               <tr>
                 <td>...</td>
                 <td>...</td>
-                <td> <button class="ui primary button" type="button" id="btn_cliente_editar" >Editar</button></td>
+                <td> </td>
               </tr>
             </tbody>
           </table>

@@ -54,7 +54,7 @@
               <tr>
                 <td>...</td>
                 <td>...</td>
-                <td> <button class="ui primary button" type="button" id="btn_articulo_editar" >Editar</button></td>
+                <td> </td>
               </tr>
             </tbody>
           </table>
